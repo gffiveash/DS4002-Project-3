@@ -30,3 +30,7 @@
   - Histogram_of_Flower_Types.png
   - Histogram_of_Indexes.png
   - Top_50_Flower_Types_Bar_Graph.png
+ 
+## Instructions for Reproducing the Results
+1. Using the 2_Merging_Datasets.ipynb script to merge the 2 datasets in the DATA folder with the JPG folder (downloaded locally on your device; for ease, here is the link: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/102flowers.tgz)
+2. Once you've merged the data and reached the finalized dataset (Final_Dataset.csv), conduct EDA using 3_EDA.ipynb
