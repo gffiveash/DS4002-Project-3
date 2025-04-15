@@ -1,4 +1,4 @@
-# DS4002 Prototyping Project 3: Flower Classification Anaylsis
+# DS4002 Prototyping Project 3: Flower Classification Analysis
 
 ## Software and Platform
 - **Programming Language**: Python 3
@@ -15,10 +15,10 @@
 
 - **Data Folder**
  - **Original Data**
-     - Image ID and Index.csv is a file with a unique image ID (up to 8,190) and their corresponding indexes
-     - Oxford Flower Index and Name.csv is a file with flower name and its corresponding unique index number
-  - Final_Dataset.csv is our merged and cleaned CSV containing all the image, index, ID, and classification data
-  - Flower Classification Data Appendix.pdf
+   - Image ID and Index.csv is a file with a unique image ID (up to 8,190) and their corresponding indexes
+   - Oxford Flower Index and Name.csv is a file with flower name and its corresponding unique index number
+ - Final_Dataset.csv is our merged and cleaned CSV containing all the image, index, ID, and classification data
+ - Flower Classification Data Appendix.pdf
  
 - **Scripts**
   - 1_Data_Appendix.ipynb is the script to create the data appendix, highlighting key statistical summaries and visualizations
