@@ -16,7 +16,7 @@
 - **Data Folder**
  - **Original Data**
      - Image ID and Index.csv is a file with a unique image ID (up to 8,190) and their corresponding indexes
-     - Oxford Flower Index and Name.csv is a file with flower name and its corresponding unique index number (of 102)
+     - Oxford Flower Index and Name.csv is a file with flower name and its corresponding unique index number
   - Final_Dataset.csv is our merged and cleaned CSV containing all the image, index, ID, and classification data
   - Flower Classification Data Appendix.pdf
  
