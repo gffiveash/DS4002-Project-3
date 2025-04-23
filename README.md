@@ -32,7 +32,7 @@
   - 3_EDA.ipynb is the script for EDA and visualizations, helping us understand the distribution of flower classification
     - Output: Histogram_of_Flower_Types.png, Histogram_of_Indexes.png, Top_50_Flower_Types_Bar_Graph.png
  - 4_VGGmodel.ipynb is the script that builds, trains, and evaluates a CNN using transfer learning with a frozen VGG16 base to classify the 102 flower types
-  - Output: Training accuracy/loss metrics, validation performance (including final accuracy), trained model ready for prediction
+    - Output: Training accuracy/loss metrics, validation performance (including final accuracy), trained model ready for prediction
  
 
 - **Output**
