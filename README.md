@@ -42,5 +42,7 @@
   - Epoch_Output.png
  
 ## Instructions for Reproducing the Results
-1. Using the 2_Merging_Datasets.ipynb script to merge the 2 datasets in the DATA folder with the JPG folder (downloaded locally on your device; for ease, here is the link: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/102flowers.tgz)
-2. Once you've merged the data and reached the finalized dataset (Final_Dataset.csv), conduct EDA using 3_EDA.ipynb
+1. Download the JPG folder of 8,000+ flower images using this link locally to your device: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/102flowers.tgz.
+2. Using the 2_Merging_Datasets.ipynb script to merge the 2 datasets in the DATA folder with the JPG folder.
+3. Once you've merged the data and reached the finalized dataset (Final_Dataset.csv), conduct EDA using 3_EDA.ipynb in the SCRIPTS folder.
+4. After you've gained an understanding of the distribution of flower classes, it is time to create our CNN model using 4_VGGmodel.ipynb in the SCRIPTS folder.
